@@ -1,2 +1,2 @@
-# bayesian_modeling_and_computation
+# Bayesian Modeling and Computation
 Notes and Exercises for Bayesian Modeling and Computation in Python
